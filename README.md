@@ -1,5 +1,5 @@
-# LAB - Class 32
-## Project: Permissions and Postgresql
+# LAB - Class 31
+## Project: Django REST Framework and Docker
 ### Author: Sam Brindle
 ### Links and Resources
 * Docker Docs
